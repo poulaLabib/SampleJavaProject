@@ -22,4 +22,7 @@ public class Food {
     public double getCalories() {
         return calories;
     }
+    
+    public void NewMethod4() {
+}
 }
