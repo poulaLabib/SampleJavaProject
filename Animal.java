@@ -17,10 +17,6 @@ public abstract class Animal {
         System.out.println(name + " is eating " + food.getName());
     }
 
-    public String getName() {
-        return name;
-    }
-
     public int getAge() {
         return age;
     }
@@ -32,4 +28,7 @@ public abstract class Animal {
     public void setAge(int age) {
         this.age = age;
     }
+    
+    public void NewMethod4() {
+}
 }

@@ -19,7 +19,8 @@ public class Food {
         return type;
     }
 
-    public double getCalories() {
+    public double getCaloriesss() {
         return calories;
     }
+    
 }

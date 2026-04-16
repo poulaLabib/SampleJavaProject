@@ -16,11 +16,6 @@ public class Dog extends Mammal implements Pet {
     }
 
     @Override
-    public void play() {
-        System.out.println(getName() + " is playing fetch");
-    }
-
-    @Override
     public void showAffection() {
         System.out.println(getName() + " wags tail and licks owner");
     }
