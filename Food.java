@@ -23,6 +23,4 @@ public class Food {
         return calories;
     }
     
-    public void NewMethod4() {
-}
 }
