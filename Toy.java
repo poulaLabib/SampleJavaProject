@@ -22,4 +22,7 @@ public class Toy {
     public boolean isChewable() {
         return isChewable;
     }
+    
+    public void NewMethod4() {
+}
 }
